@@ -23,7 +23,7 @@ Non-contact heart rate, respiratory rate, and stress monitoring using Raspberry 
    pip install numpy scipy opencv-python picamera2
 
 3. Download and run:
-   git clone https://github.com/phonot/RR_HR_pi4.git
+   git clone https://github.com/phonot/rPPG_signs_monitoring.git
    cd smart-rppg-vitals
    python3 hr_rr_hrv.py.py
 
