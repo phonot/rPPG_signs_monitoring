@@ -43,7 +43,7 @@ RMSSD: 67.8 ms
 Stress: MODERATE STRESS
 
 ##picture
-![Project Prototype](https://raw.githubusercontent.com/phonot/rPPG_signs_monitoring/main/my_pi4.png)
+![Project Prototype](https://raw.githubusercontent.com/phonot/rPPG_signs_monitoring/main/my_pi4.jpg)
 
 ## License
 MIT License
